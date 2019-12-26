@@ -1,22 +1,16 @@
 {
-  "name": "x-editable-scss",
+  "name": "@webdevnerdstuff/x-editable",
   "title": "x-editable-scss",
   "description": "In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery",
   "version": "1.5.4",
   "homepage": "https://github.com/webdevnerdstuff/x-editable",
-  "author": {
-    "name": "Vitaliy Potapov",
-    "email": "noginsk@rambler.ru"
-  },
+  "author": "Vitaliy Potapov <noginsk@rambler.ru>",
   "contributors": [
-    {
-      "name": "WebDevNerdStuff",
-      "url": "https://github.com/webdevnerdstuff"
-    }
+    "WebDevNerdStuff (https://github.com/webdevnerdstuff)"
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/webdevnerdstuff/x-editable"
+    "url": "git://github.com/webdevnerdstuff/x-editable.git"
   },
   "bugs": {
     "url": "https://github.com/webdevnerdstuff/x-editable/issues"
