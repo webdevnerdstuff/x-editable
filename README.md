@@ -5,7 +5,7 @@ In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery.
  * [Live Demo](#live-demo)
  * [Installation](#installation)
    * [Manual download](#manual-download)
-   * [Bower](#bower)
+   * [Npm](#npm)
  * [Getting Started](#getting-started)
  * [Documentation](#documentation)
  * [Issue Tracker](#issue-tracker)
@@ -22,9 +22,9 @@ Visit [X-editable demo](http://vitalets.github.io/x-editable/demo.html) to see a
 ### Manual download
 Use links on [X-editable home page](http://vitalets.github.io/x-editable).
 
-### Bower
+### Npm
 ````
-bower install x-editable
+npm install webdevnerdstuff/x-editable
 ````
 
 ## Getting Started
