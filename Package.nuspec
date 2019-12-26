@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>x-editable</id>
-    <version>1.5.3</version>
+    <version>1.5.4</version>
     <authors>Vitaliy Potapov</authors>
     <owners>Vitaliy Potapov</owners>
     <licenseUrl>https://github.com/vitalets/x-editable/blob/master/LICENSE-MIT</licenseUrl>
@@ -18,6 +18,6 @@
   <files>
     <file src="dist\*" target="\" />
 	<file src="dist\**\*.js" target="content\Scripts" />
-	<file src="dist\**" target="content\Content" exclude="**\*.js;**\*.txt;**\*.md;**\*-MIT" />	
-  </files>  
+	<file src="dist\**" target="content\Content" exclude="**\*.js;**\*.txt;**\*.md;**\*-MIT" />
+  </files>
 </package>
