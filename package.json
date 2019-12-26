@@ -1,11 +1,11 @@
 {
-  "name": "X-editable",
-  "title": "X-editable",
+  "name": "x-editable",
+  "title": "x-editable",
   "description": "In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery",
   "version": "1.5.4",
-  "homepage": "http://github.com/vitalets/x-editable",
+  "homepage": "https://github.com/webdevnerdstuff/x-editable",
   "author": {
-    "name": "Vitaliy Potapov",
+    "name": "Vitaliy Potapov, WebDevNerdStuff",
     "email": "noginsk@rambler.ru"
   },
   "repository": {
@@ -13,7 +13,7 @@
     "url": "git://github.com/webdevnerdstuff/x-editable"
   },
   "bugs": {
-    "url": "https://github.com/vitalets/x-editable/issues"
+    "url": "https://github.com/webdevnerdstuff/x-editable/issues"
   },
   "husky": {
     "hooks": {
