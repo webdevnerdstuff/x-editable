@@ -1,4 +1,4 @@
-/*! X-editable - v1.5.3 
+/*! X-editable - v1.5.4 
 * In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery
 * http://github.com/vitalets/x-editable
 * Copyright (c) 2019 Vitaliy Potapov; Licensed MIT */
@@ -3918,10 +3918,11 @@ $(function(){
             }
             return source;
         },
-        
-        // activate: function() {
-        //     this.$input.select2('open');
-        // },
+
+        // see: https://github.com/vitalets/x-editable/pull/953
+        activate: function() {
+            this.$input.select2('focus');
+        },
         
         destroy: function() {
             if(this.$input) {
