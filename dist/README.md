@@ -24,7 +24,7 @@ Use links on [X-editable home page](http://vitalets.github.io/x-editable).
 
 ### Npm
 ````
-npm install --save @webdevnerdstuff/x-editable
+npm i @webdevnerdstuff/x-editable
 ````
 
 ## Getting Started

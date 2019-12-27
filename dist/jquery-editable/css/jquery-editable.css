@@ -1,4 +1,4 @@
-/*! x-editable - v1.5.6 
+/*! x-editable - v1.5.7 
 * In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery
 * https://github.com/webdevnerdstuff/x-editable
 * Copyright (c) 2019 ; Licensed MIT */

@@ -2,7 +2,7 @@
   "name": "@webdevnerdstuff/x-editable",
   "title": "x-editable",
   "description": "In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery",
-  "version": "1.5.6",
+  "version": "1.5.7",
   "homepage": "https://github.com/webdevnerdstuff/x-editable",
   "author": "Vitaliy Potapov <noginsk@rambler.ru>",
   "contributors": [
