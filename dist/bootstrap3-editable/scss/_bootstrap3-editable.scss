@@ -356,7 +356,7 @@ a {
           &.disabled,
           &.disabled:hover {
             background-color: $x-editable-yellow2-color;
-            background-image: linear-gradient(top, $x-editable-yellow3-color, $x-editable-yellow1-color);
+            background-image: linear-gradient(to bottom, $x-editable-yellow3-color, $x-editable-yellow1-color);
             background-repeat: repeat-x;
             border-color: $x-editable-yellow1-color $x-editable-yellow1-color $x-editable-yellow8-color;
             border-color: rgba(0, 0, 0, .1) rgba(0, 0, 0, .1) rgba(0, 0, 0, .25);
@@ -425,7 +425,7 @@ a {
             &.disabled,
             &.disabled:hover {
               background-color: $x-editable-yellow5-color;
-              background-image: linear-gradient(top, $x-editable-yellow6-color, $x-editable-yellow4-color);
+              background-image: linear-gradient(to bottom, $x-editable-yellow6-color, $x-editable-yellow4-color);
               background-repeat: repeat-x;
               border-color: $x-editable-yellow4-color $x-editable-yellow4-color $x-editable-yellow10-color;
               border-color: rgba(0, 0, 0, .1) rgba(0, 0, 0, .1) rgba(0, 0, 0, .25);
@@ -474,7 +474,7 @@ a {
           &.disabled,
           &.disabled:hover {
             background-color: $x-editable-gray4-color;
-            background-image: linear-gradient(top, $x-editable-gray3-color, $x-editable-gray6-color);
+            background-image: linear-gradient(to bottom, $x-editable-gray3-color, $x-editable-gray6-color);
             background-repeat: repeat-x;
             border-color: $x-editable-gray6-color $x-editable-gray6-color $x-editable-gray9-color;
             border-color: rgba(0, 0, 0, .1) rgba(0, 0, 0, .1) rgba(0, 0, 0, .25);
@@ -523,7 +523,7 @@ a {
           &.disabled,
           &.disabled:hover {
             background-color: $x-editable-blue2-color;
-            background-image: linear-gradient(top, $x-editable-blue1-color, $x-editable-blue3-color);
+            background-image: linear-gradient(to bottom, $x-editable-blue1-color, $x-editable-blue3-color);
             background-repeat: repeat-x;
             border-color: $x-editable-blue3-color $x-editable-blue3-color $x-editable-blue5-color;
             border-color: rgba(0, 0, 0, .1) rgba(0, 0, 0, .1) rgba(0, 0, 0, .25);
@@ -595,7 +595,7 @@ a {
             &.disabled,
             &.disabled:hover {
               background-color: $x-editable-blue2-color;
-              background-image: linear-gradient(top, $x-editable-blue1-color, $x-editable-blue3-color);
+              background-image: linear-gradient(to bottom, $x-editable-blue1-color, $x-editable-blue3-color);
               background-repeat: repeat-x;
               border-color: $x-editable-blue3-color $x-editable-blue3-color $x-editable-blue5-color;
               border-color: rgba(0, 0, 0, .1) rgba(0, 0, 0, .1) rgba(0, 0, 0, .25);
