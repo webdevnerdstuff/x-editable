@@ -1,7 +1,7 @@
 X-editable changelog
 =============================
 
-Version 1.5.4 Dec 26, 2019
+Version 1.5.5 Dec 26, 2019
 ----------------------------
 [enh #371] added bootstrap3 scss (webdevnerdstuff)
 

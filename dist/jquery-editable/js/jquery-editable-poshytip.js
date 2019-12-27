@@ -1,7 +1,7 @@
-/*! X-editable - v1.5.4 
+/*! x-editable - v1.5.5 
 * In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery
-* http://github.com/vitalets/x-editable
-* Copyright (c) 2019 Vitaliy Potapov; Licensed MIT */
+* https://github.com/webdevnerdstuff/x-editable
+* Copyright (c) 2019 ; Licensed MIT */
 /**
 Form with single input element, two buttons and two states: normal/loading.
 Applied as jQuery method to DIV tag (not to form tag!). This is because form can be in loading state when spinner shown.
