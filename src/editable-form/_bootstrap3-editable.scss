@@ -22,7 +22,7 @@ $x-editable-empty-color: #d14 !default;
 $x-editable-blue1-color: #08c !default;
 $x-editable-blue2-color: #006dcc !default;
 $x-editable-blue3-color: #04c !default;
-$x-editable-blue4-color: #039 \9 !default;
+$x-editable-blue4-color: #039 !default;
 $x-editable-blue5-color: #002a80 !default;
 
 $x-editable-yellow1-color: #fdf59a !default;
@@ -31,9 +31,9 @@ $x-editable-yellow3-color: #fdd49a !default;
 $x-editable-yellow4-color: #f3e97a !default;
 $x-editable-yellow5-color: #f3d17a !default;
 $x-editable-yellow6-color: #f3c17a !default;
-$x-editable-yellow7-color: #fbf069 \9 !default;
+$x-editable-yellow7-color: #fbf069 !default;
 $x-editable-yellow8-color: #fbed50 !default;
-$x-editable-yellow9-color: #efe24b \9 !default;
+$x-editable-yellow9-color: #efe24b !default;
 $x-editable-yellow10-color: #edde34 !default;
 
 // ----------------------------- .editableform //
@@ -394,7 +394,7 @@ a {
           &:hover.active,
           &.disabled.active,
           &.disabled:hover.active {
-            background-color: $x-editable-yellow7-color;
+            background-color: $x-editable-yellow7-color \9;
           }
 
           &:hover {
@@ -463,7 +463,7 @@ a {
             &:hover.active,
             &.disabled.active,
             &.disabled:hover.active {
-              background-color: $x-editable-yellow9-color;
+              background-color: $x-editable-yellow9-color \9;
             }
           }
         }
@@ -562,7 +562,7 @@ a {
           &:hover.active,
           &.disabled.active,
           &.disabled:hover.active {
-            background-color: $x-editable-blue4-color;
+            background-color: $x-editable-blue4-color \9;
           }
         }
 
@@ -634,7 +634,7 @@ a {
             &:hover.active,
             &.disabled.active,
             &.disabled:hover.active {
-              background-color: $x-editable-blue4-color;
+              background-color: $x-editable-blue4-color \9;
             }
           }
 
